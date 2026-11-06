@@ -1,0 +1,380 @@
+{
+  "source": "C:/Users/user/Desktop/Proyectos/Alice2/public/assets/avatar/neutral.png",
+  "sourceStats": {
+    "name": "source",
+    "width": 220,
+    "height": 264,
+    "zero": 23683,
+    "partial": 34397,
+    "opaque": 0,
+    "alphaMin": 0,
+    "alphaMax": 254,
+    "cornerAlpha": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "bounds": {
+      "minX": 11,
+      "minY": 15,
+      "maxX": 208,
+      "maxY": 222
+    }
+  },
+  "crop": {
+    "left": 11,
+    "top": 15,
+    "width": 198,
+    "height": 208
+  },
+  "canvas": {
+    "size": 1024,
+    "background": {
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "alpha": 0
+    }
+  },
+  "placement": {
+    "left": 73,
+    "top": 51
+  },
+  "subject": {
+    "width": 878,
+    "height": 922
+  },
+  "verification": [
+    {
+      "name": "icon-master-1024.png",
+      "width": 1024,
+      "height": 1024,
+      "zero": 375103,
+      "partial": 673294,
+      "opaque": 179,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 73,
+        "minY": 51,
+        "maxX": 950,
+        "maxY": 972
+      }
+    },
+    {
+      "name": "32x32.png",
+      "width": 32,
+      "height": 32,
+      "zero": 388,
+      "partial": 592,
+      "opaque": 44,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 2,
+        "minY": 2,
+        "maxX": 28,
+        "maxY": 29
+      }
+    },
+    {
+      "name": "128x128.png",
+      "width": 128,
+      "height": 128,
+      "zero": 5917,
+      "partial": 10439,
+      "opaque": 28,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 9,
+        "minY": 6,
+        "maxX": 118,
+        "maxY": 121
+      }
+    },
+    {
+      "name": "128x128@2x.png",
+      "width": 256,
+      "height": 256,
+      "zero": 23389,
+      "partial": 42133,
+      "opaque": 14,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 18,
+        "minY": 13,
+        "maxX": 236,
+        "maxY": 242
+      }
+    },
+    {
+      "name": "icon.png",
+      "width": 512,
+      "height": 512,
+      "zero": 94368,
+      "partial": 167745,
+      "opaque": 31,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 37,
+        "minY": 26,
+        "maxX": 474,
+        "maxY": 485
+      }
+    },
+    {
+      "name": "icon.ico:16",
+      "width": 16,
+      "height": 16,
+      "zero": 93,
+      "partial": 143,
+      "opaque": 20,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 1,
+        "minY": 1,
+        "maxX": 13,
+        "maxY": 14
+      }
+    },
+    {
+      "name": "icon.ico:32",
+      "width": 32,
+      "height": 32,
+      "zero": 388,
+      "partial": 592,
+      "opaque": 44,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 2,
+        "minY": 2,
+        "maxX": 28,
+        "maxY": 29
+      }
+    },
+    {
+      "name": "icon.ico:48",
+      "width": 48,
+      "height": 48,
+      "zero": 790,
+      "partial": 1434,
+      "opaque": 80,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 3,
+        "minY": 2,
+        "maxX": 44,
+        "maxY": 45
+      }
+    },
+    {
+      "name": "icon.ico:64",
+      "width": 64,
+      "height": 64,
+      "zero": 1483,
+      "partial": 2523,
+      "opaque": 90,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 4,
+        "minY": 3,
+        "maxX": 58,
+        "maxY": 60
+      }
+    },
+    {
+      "name": "icon.ico:128",
+      "width": 128,
+      "height": 128,
+      "zero": 5917,
+      "partial": 10439,
+      "opaque": 28,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 9,
+        "minY": 6,
+        "maxX": 118,
+        "maxY": 121
+      }
+    },
+    {
+      "name": "icon.ico:256",
+      "width": 256,
+      "height": 256,
+      "zero": 23389,
+      "partial": 42133,
+      "opaque": 14,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 18,
+        "minY": 13,
+        "maxX": 236,
+        "maxY": 242
+      }
+    },
+    {
+      "name": "icon.icns:ic07",
+      "width": 128,
+      "height": 128,
+      "zero": 5917,
+      "partial": 10439,
+      "opaque": 28,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 9,
+        "minY": 6,
+        "maxX": 118,
+        "maxY": 121
+      }
+    },
+    {
+      "name": "icon.icns:ic08",
+      "width": 256,
+      "height": 256,
+      "zero": 23389,
+      "partial": 42133,
+      "opaque": 14,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 18,
+        "minY": 13,
+        "maxX": 236,
+        "maxY": 242
+      }
+    },
+    {
+      "name": "icon.icns:ic09",
+      "width": 512,
+      "height": 512,
+      "zero": 94368,
+      "partial": 167745,
+      "opaque": 31,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 37,
+        "minY": 26,
+        "maxX": 474,
+        "maxY": 485
+      }
+    },
+    {
+      "name": "icon.icns:ic10",
+      "width": 1024,
+      "height": 1024,
+      "zero": 375103,
+      "partial": 673294,
+      "opaque": 179,
+      "alphaMin": 0,
+      "alphaMax": 255,
+      "cornerAlpha": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "bounds": {
+        "minX": 73,
+        "minY": 51,
+        "maxX": 950,
+        "maxY": 972
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+/* La identidad de Alice: cabello crema, ojos azules y vestido de encaje. */
+:root {
+  --alice-cream: #efe3c2;
+  --alice-blue: #9db4c8;
+  --alice-navy: #1f2a44;
+  --alice-charcoal: #45404a;
+  --alice-black: #1c1c21;
+  --alice-background: #1b1d26;
+  --alice-sidebar: #20212a;
+  --alice-surface: #252731;
+  --alice-surface-raised: #2d303d;
+  --alice-user-surface: #2d374a;
+  --alice-text: #efe8d8;
+  --alice-muted: #b6b6c2;
+  --alice-subtle: #a5a8b9;
+  --alice-error: #edbdc0;
+  --alice-error-surface: #382c36;
+  --alice-error-border: #8d626f;
+  --alice-line: #464b5d;
+  --alice-line-soft: #343845;
+  --alice-line-interactive: #748095;
+  --alice-line-cream: #777464;
+  --alice-focus: #b9d7ef;
+  --alice-portrait-background: transparent;
+  --alice-portrait-ink: var(--alice-blue);
+  --alice-font-title: "Cormorant Garamond", "Palatino Linotype", Palatino, serif;
+  --alice-font-ui: "Source Sans 3", "Segoe UI", sans-serif;
+  --alice-radius-small: 8px;
+  --alice-radius: 12px;
+  --alice-radius-large: 18px;
+  --alice-duration: 200ms;
+  --alice-content-width: 860px;
+}

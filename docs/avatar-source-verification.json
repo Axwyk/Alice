@@ -1,0 +1,72 @@
+{
+  "source": "C:/Users/user/Desktop/Proyectos/Alice2/docs/Hoja de expresiones de chica gótica anime.png",
+  "verification": [
+    {
+      "name": "neutral",
+      "width": 220,
+      "height": 264,
+      "mismatchedSourceChannels": 0,
+      "alpha": {
+        "zero": 23683,
+        "partial": 34397,
+        "opaque": 0
+      }
+    },
+    {
+      "name": "seria",
+      "width": 220,
+      "height": 264,
+      "mismatchedSourceChannels": 0,
+      "alpha": {
+        "zero": 23584,
+        "partial": 34496,
+        "opaque": 0
+      }
+    },
+    {
+      "name": "ojos-cerrados",
+      "width": 220,
+      "height": 264,
+      "mismatchedSourceChannels": 0,
+      "alpha": {
+        "zero": 23592,
+        "partial": 34488,
+        "opaque": 0
+      }
+    },
+    {
+      "name": "feliz",
+      "width": 220,
+      "height": 264,
+      "mismatchedSourceChannels": 0,
+      "alpha": {
+        "zero": 24649,
+        "partial": 33431,
+        "opaque": 0
+      }
+    },
+    {
+      "name": "sorprendida",
+      "width": 220,
+      "height": 264,
+      "mismatchedSourceChannels": 0,
+      "alpha": {
+        "zero": 25142,
+        "partial": 32938,
+        "opaque": 0
+      }
+    },
+    {
+      "name": "triste",
+      "width": 220,
+      "height": 264,
+      "mismatchedSourceChannels": 0,
+      "alpha": {
+        "zero": 24910,
+        "partial": 33170,
+        "opaque": 0
+      }
+    }
+  ],
+  "enojadaEqualsSeria": true
+}

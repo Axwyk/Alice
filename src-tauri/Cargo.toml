@@ -1,0 +1,24 @@
+[package]
+name = "alice2"
+version = "0.1.0"
+description = "Alice desktop chat — Phase 0 IPC demonstration"
+authors = ["Patrick (Axwyk)"]
+edition = "2024"
+rust-version = "1.90"
+
+[lib]
+name = "alice2_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[profile.release]
+lto = "thin"
+strip = true
+

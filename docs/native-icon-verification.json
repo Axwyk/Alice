@@ -1,0 +1,133 @@
+{
+  "verifiedAt": "2026-11-06T03:18:02.9845357-05:00",
+  "exePath": "C:\\Users\\user\\Desktop\\Proyectos\\Alice2\\src-tauri\\target\\release\\alice2.exe",
+  "exeSha256": "bb73ea614c879872c9e4fd19eebb9054bbe0c0d6ada6816f2fd23b0e3698779f",
+  "iconPath": "C:\\Users\\user\\Desktop\\Proyectos\\Alice2\\src-tauri\\icons\\icon.ico",
+  "iconSha256": "02887acce4b16b2d7f0a20381b6636b8aea59c32da53e9f5196cc573c6ace250",
+  "groupResourceId": 32512,
+  "nativeEntryCount": 6,
+  "currentIcoEntryCount": 6,
+  "allPayloadsMatch": true,
+  "nativeEntries": [
+    {
+      "index": 0,
+      "resourceId": 1,
+      "width": 16,
+      "height": 16,
+      "bytes": 798,
+      "sha256": "7594ae2d9e2bc9057211f3b63247b778abd7ded59c6e9cfcec94a2ab3e7b291c",
+      "matchingIcoIndexes": [
+        0
+      ],
+      "matchesCurrentIco": true
+    },
+    {
+      "index": 1,
+      "resourceId": 2,
+      "width": 32,
+      "height": 32,
+      "bytes": 2513,
+      "sha256": "cb04f75ae11a3b6c02f6b8444fd2fce8e10a71fd646ea5580197d62d4484dd75",
+      "matchingIcoIndexes": [
+        1
+      ],
+      "matchesCurrentIco": true
+    },
+    {
+      "index": 2,
+      "resourceId": 3,
+      "width": 48,
+      "height": 48,
+      "bytes": 5497,
+      "sha256": "5a15cd7caf95fd55e59bd2969973c972304ef89e6f68901e50b0540bf61f9105",
+      "matchingIcoIndexes": [
+        2
+      ],
+      "matchesCurrentIco": true
+    },
+    {
+      "index": 3,
+      "resourceId": 4,
+      "width": 64,
+      "height": 64,
+      "bytes": 9143,
+      "sha256": "da3f198fc5722ce92b42f54fd86508086780801f85da41cbf97659bf84c81170",
+      "matchingIcoIndexes": [
+        3
+      ],
+      "matchesCurrentIco": true
+    },
+    {
+      "index": 4,
+      "resourceId": 5,
+      "width": 128,
+      "height": 128,
+      "bytes": 31993,
+      "sha256": "0f0e74343507c36a7326301663ef9164efd28e015f1c68d9edd37b73835e94d9",
+      "matchingIcoIndexes": [
+        4
+      ],
+      "matchesCurrentIco": true
+    },
+    {
+      "index": 5,
+      "resourceId": 6,
+      "width": 256,
+      "height": 256,
+      "bytes": 114611,
+      "sha256": "13df23c3a7b4ba276540832d0e186180bdce012c63a0c32c1b80449c909b8719",
+      "matchingIcoIndexes": [
+        5
+      ],
+      "matchesCurrentIco": true
+    }
+  ],
+  "currentIcoEntries": [
+    {
+      "index": 0,
+      "width": 16,
+      "height": 16,
+      "bytes": 798,
+      "sha256": "7594ae2d9e2bc9057211f3b63247b778abd7ded59c6e9cfcec94a2ab3e7b291c"
+    },
+    {
+      "index": 1,
+      "width": 32,
+      "height": 32,
+      "bytes": 2513,
+      "sha256": "cb04f75ae11a3b6c02f6b8444fd2fce8e10a71fd646ea5580197d62d4484dd75"
+    },
+    {
+      "index": 2,
+      "width": 48,
+      "height": 48,
+      "bytes": 5497,
+      "sha256": "5a15cd7caf95fd55e59bd2969973c972304ef89e6f68901e50b0540bf61f9105"
+    },
+    {
+      "index": 3,
+      "width": 64,
+      "height": 64,
+      "bytes": 9143,
+      "sha256": "da3f198fc5722ce92b42f54fd86508086780801f85da41cbf97659bf84c81170"
+    },
+    {
+      "index": 4,
+      "width": 128,
+      "height": 128,
+      "bytes": 31993,
+      "sha256": "0f0e74343507c36a7326301663ef9164efd28e015f1c68d9edd37b73835e94d9"
+    },
+    {
+      "index": 5,
+      "width": 256,
+      "height": 256,
+      "bytes": 114611,
+      "sha256": "13df23c3a7b4ba276540832d0e186180bdce012c63a0c32c1b80449c909b8719"
+    }
+  ],
+  "previews": [
+    "C:\\Users\\user\\.codex\\visualizations\\2026\\11\\05\\01a1acee-8d44-7801-9fb9-0fb4e94b51c8\\no-background-native-embedded.png",
+    "C:\\Users\\user\\.codex\\visualizations\\2026\\11\\05\\01a1acee-8d44-7801-9fb9-0fb4e94b51c8\\no-background-native-current.png"
+  ]
+}

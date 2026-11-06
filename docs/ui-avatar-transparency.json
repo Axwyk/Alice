@@ -1,0 +1,339 @@
+{
+  "passed": true,
+  "initial": [
+    {
+      "class": "alice-avatar alice-avatar--brand",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--small",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--hero",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    }
+  ],
+  "mobile": [
+    {
+      "class": "alice-avatar alice-avatar--brand",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--small",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--hero",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    }
+  ],
+  "thinking": [
+    {
+      "class": "alice-avatar alice-avatar--brand",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__thinking",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--small",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__thinking",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--small",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__thinking",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    }
+  ],
+  "message": [
+    {
+      "class": "alice-avatar alice-avatar--brand",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--small",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar alice-avatar--small message-portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    },
+    {
+      "class": "alice-avatar__portrait",
+      "background": "rgba(0, 0, 0, 0)",
+      "border": [
+        "0px",
+        "0px",
+        "0px",
+        "0px"
+      ],
+      "shadow": "none"
+    }
+  ],
+  "resources": [
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/neutral.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/feliz.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/seria.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/sorprendida.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/triste.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/enojada.png",
+      "loaded": true
+    },
+    {
+      "src": "http://127.0.0.1:1428/assets/avatar/ojos-cerrados.png",
+      "loaded": true
+    }
+  ],
+  "errors": []
+}

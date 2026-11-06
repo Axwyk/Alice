@@ -1,0 +1,10 @@
+[package]
+name = "alice-core"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.90"
+description = "Runtime-independent domain contracts for Alice"
+publish = false
+
+[dependencies]
+futures-core = { version = "=0.3.34", default-features = false }
